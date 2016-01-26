@@ -1,0 +1,82 @@
+[
+	{
+		"c_id": 1,
+		"user": 2,
+		"city": "Kyiv",
+		"date": 1447716002452,
+		"duration": 180000,
+		"tariff": 2
+	},
+	{
+		"c_id": 2,
+		"user": 5,
+		"city": "Lviv",
+		"date": 1447716002567,
+		"duration": 181233,
+		"tariff": 3
+	},
+	{
+		"c_id": 3,
+		"user": 1,
+		"city": "Ternopil",
+		"date": 1447716002789,
+		"duration": 89000,
+		"tariff": 4
+	},
+	{
+		"c_id": 4,
+		"user": 3,
+		"city": "Ivano-Frankivsk",
+		"date": 1447716002456,
+		"duration": 300000,
+		"tariff": 1
+	},
+	{
+		"c_id": 5,
+		"user": 4,
+		"city": "Kharkiv",
+		"date": 1447716001879,
+		"duration": 256890,
+		"tariff": 5
+	},
+	{
+		"c_id": 6,
+		"user": 3,
+		"city": "Lviv",
+		"date": 1447716008888,
+		"duration": 297986,
+		"tariff": 4
+	},
+	{
+		"c_id": 7,
+		"user": 4,
+		"city": "Kyiv",
+		"date": 1447716010268,
+		"duration": 280684,
+		"tariff": 5
+	},
+	{
+		"c_id": 8,
+		"user": 5,
+		"city": "Kharkiv",
+		"date": 1447716102569,
+		"duration": 956462,
+		"tariff": 3
+	},
+	{
+		"c_id": 9,
+		"user": 2,
+		"city": "Ternopil",
+		"date": 1447716112456,
+		"duration": 3456654,
+		"tariff": 2
+	},
+	{
+		"c_id": 10,
+		"user": 1,
+		"city": "Ivano-Frankivsk",
+		"date": 1447716231879,
+		"duration": 464564,
+		"tariff": 1
+	}
+]

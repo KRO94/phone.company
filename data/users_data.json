@@ -1,0 +1,47 @@
+[
+{
+	"u_id": 1,
+	"email": "taras.batinkav@gmail.com",
+	"password": "qwerty123",
+	"u_name": "Taras",
+	"surname": "Batinkav",
+	"gender": "male",
+	"card_number": 3498753495435345
+},
+{
+	"u_id": 2,
+	"email": "olga.chernetska@gmail.com",
+	"password": "qwerty456",
+	"u_name": "Olga",
+	"surname": "Chernetska",
+	"gender": "female",
+	"card_number": 4765872642875627
+},
+{
+	"u_id": 3,
+	"email": "viktoriya.kravchina@gmail.com",
+	"password": "qwerty789",
+	"u_name": "Viktoriya",
+	"surname": "Kravchina",
+	"gender": "female",
+	"card_number": 8738765304856309
+},
+{
+	"u_id": 4,
+	"email": "ivan.josifiv@gmail.com",
+	"password": "qwerty135",
+	"u_name": "Ivan",
+	"surname": "Josifiv",
+	"gender": "male",
+	"card_number": 4264927828472894
+},
+{
+	"u_id": 5,
+	"email": "oleg.vovchko@gmail.com",
+	"password": "qwerty246",
+	"u_name": "Oleg",
+	"surname": "Vovchko",
+	"gender": "male",
+	"card_number": 6438726234632787
+}
+]
